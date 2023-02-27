@@ -104,6 +104,10 @@ body{
 
 .apresentacao__imagem {
     width: 50%;
+    padding: 1% 1% 0% 0%;
+    border-top: 1px solid var(--cor-terciaria);
+    border-right: 1px solid var(--cor-terciaria);
+    border-radius: 3px;
 }
 
 .apresentacao__imagem:hover {
