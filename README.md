@@ -36,7 +36,7 @@ O projeto **csdamo_page**, é uma página estática desenvolvido durante a Forma
 
 ### Clonando projeto para máquina local:
 
-* Criar repositório onde será mantido o projeto e posicione-se, via terminal, dentro dele. 
+* Crie o repositório onde será mantido o projeto e posicione-se, via terminal, dentro dele. 
 * Rode o comando
 ```
 git clone https://github.com/csdamo/csdamo_page.git
@@ -56,7 +56,7 @@ git clone https://github.com/csdamo/csdamo_page.git
 * Coloque as suas informações pessoais e sua foto.
 
 ## Sugestão:
-Altere as variáveis de cores no arquivo  ``atyle.css``` para personalizar a sua página
+Altere as variáveis de cores no arquivo  ``style.css``` para personalizar a sua página
 ![image](https://user-images.githubusercontent.com/64370426/221701307-5ca20808-adde-4e09-a03f-f19d97417a6f.png)
 
 Você pode escolher uma paleta de cores em sites como o Color Hunt: https://colorhunt.co/
